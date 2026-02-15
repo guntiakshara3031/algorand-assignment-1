@@ -1,10 +1,10 @@
 # Algorand Fundamentals Assignment 1
 
 ## Name
-Akshara G
+B Akshara
 
 ## Email
-your-email@example.com
+guntiakshara3031@gmail.com
 
 ## Github Username
 guntiakshara3031
